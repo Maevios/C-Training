@@ -1,0 +1,13 @@
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.exe
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.deps.json
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.runtimeconfig.json
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.runtimeconfig.dev.json
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.dll
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.pdb
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.csproj.AssemblyReference.cache
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.AssemblyInfoInputs.cache
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.AssemblyInfo.cs
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.dll
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.pdb
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.genruntimeconfig.cache

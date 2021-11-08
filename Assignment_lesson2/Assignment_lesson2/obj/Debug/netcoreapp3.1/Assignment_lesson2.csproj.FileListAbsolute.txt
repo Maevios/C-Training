@@ -1,0 +1,13 @@
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Assignment_lesson2\bin\Debug\netcoreapp3.1\Assignment_lesson2.exe
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Assignment_lesson2\bin\Debug\netcoreapp3.1\Assignment_lesson2.deps.json
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Assignment_lesson2\bin\Debug\netcoreapp3.1\Assignment_lesson2.runtimeconfig.json
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Assignment_lesson2\bin\Debug\netcoreapp3.1\Assignment_lesson2.runtimeconfig.dev.json
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Assignment_lesson2\bin\Debug\netcoreapp3.1\Assignment_lesson2.dll
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Assignment_lesson2\bin\Debug\netcoreapp3.1\Assignment_lesson2.pdb
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Assignment_lesson2\obj\Debug\netcoreapp3.1\Assignment_lesson2.csproj.AssemblyReference.cache
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Assignment_lesson2\obj\Debug\netcoreapp3.1\Assignment_lesson2.AssemblyInfoInputs.cache
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Assignment_lesson2\obj\Debug\netcoreapp3.1\Assignment_lesson2.AssemblyInfo.cs
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Assignment_lesson2\obj\Debug\netcoreapp3.1\Assignment_lesson2.csproj.CoreCompileInputs.cache
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Assignment_lesson2\obj\Debug\netcoreapp3.1\Assignment_lesson2.dll
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Assignment_lesson2\obj\Debug\netcoreapp3.1\Assignment_lesson2.pdb
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson2\Assignment_lesson2\obj\Debug\netcoreapp3.1\Assignment_lesson2.genruntimeconfig.cache
