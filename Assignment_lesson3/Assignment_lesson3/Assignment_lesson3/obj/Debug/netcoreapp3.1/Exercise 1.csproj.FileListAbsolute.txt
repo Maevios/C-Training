@@ -10,3 +10,4 @@ C:\Users\ag.antoniou\git\C# training\Assignment_lesson3\Assignment_lesson3\Assig
 C:\Users\ag.antoniou\git\C# training\Assignment_lesson3\Assignment_lesson3\Assignment_lesson3\obj\Debug\netcoreapp3.1\Exercise 1.dll
 C:\Users\ag.antoniou\git\C# training\Assignment_lesson3\Assignment_lesson3\Assignment_lesson3\obj\Debug\netcoreapp3.1\Exercise 1.pdb
 C:\Users\ag.antoniou\git\C# training\Assignment_lesson3\Assignment_lesson3\Assignment_lesson3\obj\Debug\netcoreapp3.1\Exercise 1.genruntimeconfig.cache
+C:\Users\ag.antoniou\git\C# training\Assignment_lesson3\Assignment_lesson3\Assignment_lesson3\obj\Debug\netcoreapp3.1\Exercise 1.csproj.AssemblyReference.cache
