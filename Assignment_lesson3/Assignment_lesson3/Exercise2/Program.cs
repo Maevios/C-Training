@@ -16,7 +16,8 @@ namespace Exercise2
             Console.WriteLine("Repeat password login");
             string inputPassword = Console.ReadLine();
 
-            for (int i = 0; i < 5; i++)
+            int i = 0;
+            do
             {
                 if (inputUsername == username & inputPassword == password)
                 {
@@ -24,7 +25,12 @@ namespace Exercise2
                     break;
                 }
                 else { Console.WriteLine("Wrong input"); }
-            }
+                Console.WriteLine("Repeat username login");
+                inputUsername = Console.ReadLine();
+                Console.WriteLine("Repeat password login");
+                inputPassword = Console.ReadLine();
+                i++;
+            } while ((inputUsername != username || inputPassword != password ) & i < 4);
             
         }
     }

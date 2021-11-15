@@ -7,20 +7,20 @@ namespace Assignment_lesson3
         static void Main(string[] args)
         {
             Console.WriteLine("Add disance in meters");
-            var distance = Convert.ToInt32(Console.ReadLine());
+            float distance = float.Parse(Console.ReadLine());
 
             Console.WriteLine("Add hours");
-            int hours = Convert.ToInt32(Console.ReadLine());
+            float hours = float.Parse(Console.ReadLine());
             Console.WriteLine("Add minutes");
-            int minutes = Convert.ToInt32(Console.ReadLine());
+            float minutes = float.Parse(Console.ReadLine());
             Console.WriteLine("Add seconds");
-            int seconds = Convert.ToInt32(Console.ReadLine());
+            float seconds = float.Parse(Console.ReadLine());
 
-            double totalTime = ((double)hours * 3600) + ((double)minutes * 60) + seconds;
+            float totalTime = (hours * 3600) + (minutes * 60) + seconds;
 
-            double metersInSeconds = distance / totalTime;
-            double kilometersPerHour = (distance / 1000) / (totalTime / 3600);
-            double milesPerHour = (distance / 1000) / 1609;
+            float metersInSeconds = distance / totalTime;
+            float kilometersPerHour = (distance / 1000) / (totalTime / 3600);
+            float milesPerHour = (distance / 1000) / 1609;
 
             Console.WriteLine("Meters In Seconds " + metersInSeconds);
             Console.WriteLine("Kilometers Per Hour " + kilometersPerHour);
