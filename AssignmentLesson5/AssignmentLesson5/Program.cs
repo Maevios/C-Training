@@ -24,7 +24,7 @@ namespace AssignmentLesson5
 
             phoneBook.LookUp("James", "2", out PhoneBookEntry foundEntry);
 
-            phoneBook.delete(foundEntry);
+          
         }
     }
 }
